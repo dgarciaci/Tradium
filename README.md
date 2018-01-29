@@ -14,7 +14,10 @@ Chat, una forma sencilla y rápida de comunicación entre usuarios, con el objet
 
 
 ## Desarrolladores
-Roberto Gallado Cava 
+Roberto Gallado Cava
+
 Manuel Antonio Romero Venegas
+
 Daniel García Cisneros
+
 Ignacio Ruiz Ardisoni
