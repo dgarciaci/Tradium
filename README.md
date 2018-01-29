@@ -14,10 +14,10 @@ Chat, una forma sencilla y rápida de comunicación entre usuarios, con el objet
 
 
 ## Desarrolladores
-Roberto Gallado Cava
+Roberto Gallado Cava- r.gallardoc@alumnos.urjc.es. @RoberG
 
-Manuel Antonio Romero Venegas
+Manuel Antonio Romero Venegas- ma.romerov@alumnos.urjc.es @BadgerVM
 
-Daniel García Cisneros
+Daniel García Cisneros- d.garciaci@alumnos.urjc.es. @dgarciaci
 
-Ignacio Ruiz Ardisoni
+Ignacio Ruiz Ardisoni- i.ruiza@alumnos.urjc.es. @TaXiD
